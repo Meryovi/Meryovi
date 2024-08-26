@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Meryovi/Meryovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Meryovi (pronounced _Mɛri-ovi_), a **Senior Software Developer & Architect** based in Valladolid, Spain, originally from the Dominican Republic. I design and build software solutions with the end-user in mind.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Coding since 13, professionally since 18
+- 🎶 Passionate about drumming and aquascaping
+- 💡 Constantly learning and exploring new ideas
+- 📚 Occasionally a book geek
+
+Feel free to explore my repositories and connect with me!
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=meryovi&theme=nord)](https://github.com/meryovi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meryovi&layout=compact&theme=nord)
