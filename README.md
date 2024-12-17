@@ -4,7 +4,7 @@ I'm Meryovi (pronounced _Mɛri-ovi_), a **Senior Software Developer & Architect*
 
 ### About Me
 
-- 💻 Coding since 13, professionally since 18
+- 💻 Started coding at 13, now it pays the bills
 - 🎶 Passionate about drumming and aquascaping
 - 💡 Constantly learning and exploring new ideas
 - 📚 Occasionally a book geek
